@@ -41,7 +41,7 @@ function fancyAlert(arg) {
 - [ ] this is an incomplete item
 
 First Header | Second Header
------------- | -------------
+--- | --
 Content from cell 1 | Content from cell 2
 Content from cell 3 | Content from cell 4
 Content in the first column | Content in the second column
