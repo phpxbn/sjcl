@@ -1,8 +1,8 @@
 ```
 <script>
-function xbn(){
-    var p=document.getElementById("ppp");
-}
+    function xbn(){
+        var p=document.getElementById("ppp");
+    }
 </script>
 ```
 
