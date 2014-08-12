@@ -1,4 +1,7 @@
 I think must add Class Memory to `Zend\Memory\Memory.php`.
+```javascript
+        $memoryManager = Zend\Memory\Memory::factory('File', $backendOptions);
+```
 You can see documenttation not this Class Memory.
 
 ```javascript
