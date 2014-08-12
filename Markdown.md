@@ -8,7 +8,6 @@ function fancyAlert(arg) {
     $.facebox({div:'#foo'})
   }
 }
-```
 
     function fancyAlert(arg) {
       if(arg) {
@@ -20,3 +19,5 @@ function fancyAlert(arg) {
     def foo():
         if not bar:
             return True
+
+```
