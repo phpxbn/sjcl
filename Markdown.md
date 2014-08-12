@@ -24,7 +24,7 @@ You can see documentation not this Class Memory.
 
 :ok_hand:ok_hand
 
-```javascript
+```php
 
 <?php
 /*
