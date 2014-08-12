@@ -58,7 +58,24 @@ As Kanye West said:
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 
+1. Item 1
+2. Item 2
+3. Item 3
+   * Item 3a
+   * Item 3b
+
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
 
 
 
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+*You **can** combine them*
 
