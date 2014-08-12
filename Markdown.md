@@ -1,3 +1,6 @@
+xbn `hello word`
+xbn >said: You are puitud.
+
 # Today study Markdown syntax.
 
 [GitHub](http://github.com)
