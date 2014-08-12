@@ -1,4 +1,4 @@
-xbn `hello word`
+xbn ` hello word  `
 
 xbn 
 >said: You are puitud.
