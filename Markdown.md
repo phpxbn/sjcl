@@ -2,25 +2,28 @@ I think must add Class Memory to `Zend\Memory\Memory.php`.
 ```javascript
         $memoryManager = Zend\Memory\Memory::factory('File', $backendOptions);
 ```
-You can see documentation not this Class Memory.:smile:
+You can see documentation not this Class Memory.
 
-:thumbsup:
+:smile:smile
 
- :+1:
+:thumbsup:thumbsup
+
+ :+1:+1
  
-:thumbsdown:
+:thumbsdown:thumbsdown
 
-:-1:
+:-1:-1
 
-:point_up:
+:point_up:point_up
 
-:point_right:
+:point_right:point_right
 
-:point_down:
+:point_down:point_down
 
-:wave:
+:wave:wave
 
-:ok_hand:
+:ok_hand:ok_hand
+
 ```javascript
 
 <?php
