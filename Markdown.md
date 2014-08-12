@@ -1,5 +1,5 @@
 I think must add Class Memory to `Zend\Memory\Memory.php`.
-```javascript
+```php
         $memoryManager = Zend\Memory\Memory::factory('File', $backendOptions);
 ```
 You can see documentation not this Class Memory.
