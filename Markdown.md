@@ -5,10 +5,22 @@ I think must add Class Memory to `Zend\Memory\Memory.php`.
 You can see documentation not this Class Memory.:smile:
 
 :thumbsup:
+
  :+1:
+ 
 :thumbsdown:
+
 :-1:
 
+:point_up:
+
+:point_right:
+
+:point_down:
+
+:wave:
+
+:ok_hand:
 ```javascript
 
 <?php
