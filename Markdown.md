@@ -1,7 +1,7 @@
-xbn ` hello word  `
+xbn `    hello word    `
 
-xbn 
->said: You are puitud.
+xbn said: 
+>You are puitud.
 
 # Today study Markdown syntax.
 
