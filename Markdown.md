@@ -1,7 +1,6 @@
-If you want to embed images, this is how you do it:
 
 
-Format: ![Alt Text](https://octodex.github.com/images/yaktocat.png)
+ ![I think you would like.](https://octodex.github.com/images/maxtocat.gif)
 
 
 
