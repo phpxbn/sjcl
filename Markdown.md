@@ -1,6 +1,11 @@
 
+You can use Markdown most places around GitHub:
 
- ![I think you would like.](https://octodex.github.com/images/maxtocat.gif)
+* Gists
+* Comments in Issues and Pull Requests
+* Files with the `.md` or `.markdown` extension
+
+ 
 
 
 
