@@ -1,3 +1,12 @@
+```
+<script>
+function xbn(){
+    var p=document.getElementById("ppp");
+}
+</script>
+```
+
+
 xbn `    hello word    `
 
 xbn said: 
