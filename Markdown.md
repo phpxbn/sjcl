@@ -4,7 +4,10 @@ I think must add Class Memory to `Zend\Memory\Memory.php`.
 ```
 You can see documentation not this Class Memory.:smile:
 
-:tiger1:
+:thumbsup:
+ :+1:
+:thumbsdown:
+:-1:
 
 ```javascript
 
