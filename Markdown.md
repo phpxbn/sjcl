@@ -3,7 +3,7 @@
 
 - [Gists](https://guides.github.com)
 - **Comments in Issues and Pull Requests**
-- **Files with the `.md` or `.markdown` extension**
+- **Files** with the `.md` **or** `.markdown` **extension**
 
  
 
