@@ -1,6 +1,11 @@
 ```
 <script>
+/*
+* You see
+* this problems here.
+*/
     function xbn(){
+        //this corrcate.
         var p=document.getElementById("ppp");
     }
 </script>
