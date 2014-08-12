@@ -1,5 +1,4 @@
-```
-<script>
+```<script>
 /*
 * You see
 * this problems here.
@@ -8,8 +7,7 @@
         //this corrcate.
         var p=document.getElementById("ppp");
     }
-</script>
-```
+</script>```
 
 
 xbn `    hello word    `
