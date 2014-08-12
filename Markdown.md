@@ -2,7 +2,7 @@ I think must add Class Memory to `Zend\Memory\Memory.php`.
 ```javascript
         $memoryManager = Zend\Memory\Memory::factory('File', $backendOptions);
 ```
-You can see documentation not this Class Memory.:smile:
+You can see documentation not this Class Memory.:smile:/play secret
 
 ```javascript
 
